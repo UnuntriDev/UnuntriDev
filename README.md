@@ -88,7 +88,7 @@ Full-stack data cleaning application. Smart Fix (auto-detect issues), async jobs
 
 ## Contact
 
-- **LinkedIn:** 
+- **LinkedIn:** https://www.linkedin.com/in/arkadiusz-tokarczyk
 - **Email:** ununtridev@gmail.com
 - **GitHub:** [@UnuntriDev](https://github.com/UnuntriDev)
 - **Location:** Kraków
