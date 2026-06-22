@@ -1,4 +1,4 @@
-# Arkadiusz (UnuntriDev)
+# Arkadiusz T. (UnuntriDev)
 
 **Python Developer | AI & Big Data**
 
