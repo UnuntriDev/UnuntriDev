@@ -46,7 +46,7 @@ Q&A assistant on PDF/CSV documents. Powered by Azure OpenAI (gpt-4o-mini ~$1/100
 
 **Stack:** Azure OpenAI, Azure AI Search, LangChain, Streamlit, Python  
 **What I learned:** RAG patterns, Azure integration, cost optimization, hybrid search  
-**Link:** 
+**Link:** [github.com/UnuntriDev/azure-rag](https://github.com/UnuntriDev/azure-rag)
 
 ---
 
